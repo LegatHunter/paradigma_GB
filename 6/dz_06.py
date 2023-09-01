@@ -19,7 +19,6 @@ def binary_search(arr, target):
     
     return -1
 
-# Пример использования
 arr = [1, 2, 3, 4, 5]
 target = 3
 
